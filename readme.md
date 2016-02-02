@@ -10,7 +10,7 @@ For instaclustr users, please read the [getting started](https://support.instacl
 
 ## Installation
 
-` git clone <this repo>` 
+`git clone https://github.com/instaclustr/cassandra-quickstart.git` 
 
 ## Setup and Configuration
 
