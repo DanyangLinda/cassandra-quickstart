@@ -1,0 +1,8 @@
+{
+  "cluster": {
+      "contact_points": ["XX.XX.XX.XX"],
+      "username": "cassandra",
+      "password": "cassandra",
+      "data_centres": ["AWS_VPC_US_EAST_1"]
+  }
+}
